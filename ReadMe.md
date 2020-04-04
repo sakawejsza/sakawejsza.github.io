@@ -7,5 +7,5 @@ will look at the array to determine if/ what the missing number in the sequence 
 
 The Perl file main.pl is simply a code code that prints the array in this case the array is a,b,c,d
 
-The Python file asks for a integer for a and z and then swaps the values for the two and prints the outcome
+The Python file main.py asks for a integer for a and z and then swaps the values for the two and prints the outcome
 
